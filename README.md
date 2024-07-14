@@ -3,7 +3,7 @@ This tool is designed to exploit vulnerabilities within the AuthMe authenticatio
 
 How to use:
 Download the tool and extract it.
-Then open up it and click on the exe file.
+Then open up it and run the exe file.
 And It will display a GUI with options to use.
 
 The Program also have extra tools to use.
